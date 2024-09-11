@@ -20,7 +20,7 @@
     "chartjs-plugin-annotation": "^1.2.2",
     "date-fns": "^2.21.1",
     "fhirclient": "^2.4.0",
-    "grunt": "^1.5.2",
+    "grunt": "^1.6.1",
     "inputmask": "^5.0.5",
     "jquery-ui-dist": "^1.13.1",
     "regression": "^2.0.1",
