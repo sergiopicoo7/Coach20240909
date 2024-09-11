@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/hapi": "^18.0.6",
+    "@types/hapi": "^18.0.14",
     "chart.js": "^3.5.1",
     "chartjs-adapter-date-fns": "^2.0.0",
     "chartjs-plugin-annotation": "^1.2.2",
