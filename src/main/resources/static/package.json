@@ -19,7 +19,7 @@
     "chartjs-adapter-date-fns": "^2.0.0",
     "chartjs-plugin-annotation": "^1.2.2",
     "date-fns": "^2.21.1",
-    "fhirclient": "^2.4.0",
+    "fhirclient": "^2.5.3",
     "grunt": "^1.5.2",
     "inputmask": "^5.0.5",
     "jquery-ui-dist": "^1.13.1",
